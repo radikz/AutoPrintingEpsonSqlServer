@@ -1,0 +1,13 @@
+C:\Users\angga\Documents\Visual Studio 2012\Projects\AutoPrintCrashVersion\AutoPrintCrashVersion\bin\Release\AutoPrintCrashVersion.exe.config
+C:\Users\angga\Documents\Visual Studio 2012\Projects\AutoPrintCrashVersion\AutoPrintCrashVersion\bin\Release\AutoPrintCrashVersion.exe.manifest
+C:\Users\angga\Documents\Visual Studio 2012\Projects\AutoPrintCrashVersion\AutoPrintCrashVersion\bin\Release\AutoPrintCrashVersion.application
+C:\Users\angga\Documents\Visual Studio 2012\Projects\AutoPrintCrashVersion\AutoPrintCrashVersion\bin\Release\AutoPrintCrashVersion.exe
+C:\Users\angga\Documents\Visual Studio 2012\Projects\AutoPrintCrashVersion\AutoPrintCrashVersion\bin\Release\AutoPrintCrashVersion.pdb
+C:\Users\angga\Documents\Visual Studio 2012\Projects\AutoPrintCrashVersion\AutoPrintCrashVersion\obj\Release\AutoPrintCrashVersion.Form1.resources
+C:\Users\angga\Documents\Visual Studio 2012\Projects\AutoPrintCrashVersion\AutoPrintCrashVersion\obj\Release\AutoPrintCrashVersion.Properties.Resources.resources
+C:\Users\angga\Documents\Visual Studio 2012\Projects\AutoPrintCrashVersion\AutoPrintCrashVersion\obj\Release\AutoPrintCrashVersion.csproj.GenerateResource.Cache
+C:\Users\angga\Documents\Visual Studio 2012\Projects\AutoPrintCrashVersion\AutoPrintCrashVersion\obj\Release\AutoPrintCrashVersion.exe.manifest
+C:\Users\angga\Documents\Visual Studio 2012\Projects\AutoPrintCrashVersion\AutoPrintCrashVersion\obj\Release\AutoPrintCrashVersion.application
+C:\Users\angga\Documents\Visual Studio 2012\Projects\AutoPrintCrashVersion\AutoPrintCrashVersion\obj\Release\AutoPrintCrashVersion.exe
+C:\Users\angga\Documents\Visual Studio 2012\Projects\AutoPrintCrashVersion\AutoPrintCrashVersion\obj\Release\AutoPrintCrashVersion.pdb
+C:\Users\angga\Documents\Visual Studio 2012\Projects\AutoPrintCrashVersion\AutoPrintCrashVersion\obj\Release\AutoPrintCrashVersion.csprojResolveAssemblyReference.cache
