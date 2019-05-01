@@ -8,4 +8,4 @@ This project requires:
 
 <h1><b> How is it works? </b></h1>
 1. There is a new data in SQL Server
-2. Application will perform printing.
+<br>2. Application will perform printing.
