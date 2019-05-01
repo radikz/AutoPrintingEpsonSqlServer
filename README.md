@@ -1,4 +1,4 @@
-# AutoPrintingEpsonSqlServer
+# Auto Printing Epson
 
 This Windows Application will auotomatically printing if there are any data insert. 
 
